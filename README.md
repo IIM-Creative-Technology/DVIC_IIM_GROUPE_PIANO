@@ -26,7 +26,15 @@ Sur le côté gauche on a un écran qui affiche les notes lorsqu'on joue.
 
 ![Piano](schema_piano.png)
 
-## * Photo fonctionnement *
+## * Photos & Vidéos fonctionnement *
+
+Voici deux vidéos Youtube de présentation :
+
+[![Watch the video](https://icons-for-free.com/download-icon-tube+video+you+youtube+icon-1320185153402885670_256.ico)](https://youtu.be/E45phyInUGs). . .
+[![Watch the video](https://icons-for-free.com/download-icon-tube+video+you+youtube+icon-1320185153402885670_256.ico)](https://youtu.be/F53Q8GoYeoA)
+
+
+
 
 ## * Photo équipe *
 
