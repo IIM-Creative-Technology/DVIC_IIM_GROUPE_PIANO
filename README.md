@@ -1,4 +1,4 @@
-# Projet Piano - 22.07.22
+# Projet Piano - 7'Sym𝄞ony
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 
