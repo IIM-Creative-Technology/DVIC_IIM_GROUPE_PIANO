@@ -28,7 +28,7 @@ Sur le côté gauche on a un écran qui affiche les notes lorsqu'on joue.
 
 ## * Photos & Vidéos *
 
-Voici quelques photos de notre super piano :
+Voici quelques photos de notre super piano :   
 ![Piano systeme](Piano_Elec.png)  
 ![Piano photo](Piano_Face.png)
 
@@ -39,15 +39,14 @@ Voici deux vidéos Youtube de présentation :
 [![Watch the video](https://icons-for-free.com/download-icon-tube+video+you+youtube+icon-1320185153402885670_256.ico)](https://youtu.be/F53Q8GoYeoA)
 
 
-
-
-## * Photo équipe *
+## * Photo d'équipe *
 
 ![Piano](Photo_Equipe.png)
 
 ## * Amélioration possible *
 - Carte ESP32 
 - Design avec imprimante 3D 
+- Apprentissage de morceaux de piano à l'aide de l'écran 
 
 ## * Liste matériel *
 
