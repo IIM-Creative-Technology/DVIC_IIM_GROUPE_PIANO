@@ -24,11 +24,13 @@ Sur le côté gauche on a un écran qui affiche les notes lorsqu'on joue.
 
 ## * Schéma *
 
-![Piano](schema_piano.png)
+![Schema piano](schema_piano.png)
 
 ## * Photos & Vidéos *
 
 Voici quelques photos de notre super piano :
+![Piano systeme](Piano_Elec.png)  
+![Piano photo](Piano_Face.png)
 
 
 Voici deux vidéos Youtube de présentation :
