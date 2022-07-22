@@ -30,6 +30,8 @@ Sur le côté gauche on a un écran qui affiche les notes lorsqu'on joue.
 
 ## * Photo équipe *
 
+![Piano](Photo_Equipe.png)
+
 ## * Amélioration possible *
 - Carte ESP32 
 - Design avec imprimante 3D 
