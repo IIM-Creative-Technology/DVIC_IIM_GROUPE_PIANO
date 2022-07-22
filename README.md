@@ -26,7 +26,7 @@ Sur le côté gauche on a un écran qui affiche les notes lorsqu'on joue.
 
 ![Piano](schema_piano.png)
 
-## * Photos & Vidéos fonctionnement *
+## * Photos & Vidéos *
 
 Voici quelques photos de notre super piano :
 
