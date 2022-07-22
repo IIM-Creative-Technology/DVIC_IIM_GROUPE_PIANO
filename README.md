@@ -29,6 +29,7 @@ Sur le côté gauche on a un écran qui affiche les notes lorsqu'on joue.
 ## * Photos & Vidéos *
 
 Voici quelques photos de notre super piano :   
+![Piano photoo](7'symfony.png)
 ![Piano systeme](Piano_Elec.png)  
 ![Piano photo](Piano_Face.png)
 
